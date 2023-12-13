@@ -1,0 +1,1 @@
+import{f as t,o,c as a,t as s,u as n}from"./index-w5bV-bkn.js";const p={__name:"DynamicView",setup(c){const e=t();return console.log(e.path),(r,u)=>(o(),a("div",null,s(n(e).path),1))}};export{p as default};
